@@ -1,0 +1,23 @@
+{
+  "id": "rawnind-bayer",
+  "name": "RawNIND UtNet2 (Bayer)",
+  "version": "1.0",
+  "licence": {
+    "name": "GPL-3.0",
+    "commercial": "yes",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "notice": "Weights licensed GPL-3.0. Downloaded separately for local testing with user acknowledgment; not bundled or redistributed with LightCraft."
+  },
+  "source": "https://github.com/darktable-org/darktable-ai/tree/master/models/rawdenoise-nind",
+  "sha256": "da27509dab6a2915da67e988acd86cf71f9d5bbc8d1aa0ed32933578a887b901",
+  "sizeBytes": 31056425,
+  "provenance": "RawNIND real paired noisy and clean photographs; Brummer and De Vleeschouwer, 2025.",
+  "domain": "bayerToRgb",
+  "tile": 512,
+  "overlap": 64,
+  "gain": {
+    "kind": "matchMean",
+    "nominal": 1000000.0,
+    "max_deviation": 0.05
+  }
+}

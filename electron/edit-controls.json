@@ -1,0 +1,498 @@
+{
+  "highlights": {
+    "label": "Highlights",
+    "group": "Light",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "shadows": {
+    "label": "Shadows",
+    "group": "Light",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "whites": {
+    "label": "Whites",
+    "group": "Light",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "blacks": {
+    "label": "Blacks",
+    "group": "Light",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "curveShadows": {
+    "label": "Shadows",
+    "group": "Curve",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "curveDarks": {
+    "label": "Darks",
+    "group": "Curve",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "curveLights": {
+    "label": "Lights",
+    "group": "Curve",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "curveHighlights": {
+    "label": "Highlights",
+    "group": "Curve",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "tint": {
+    "label": "Tint",
+    "group": "Color",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "vibrance": {
+    "label": "Vibrance",
+    "group": "Color",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "redHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "redSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "redLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "orangeHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "orangeSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "orangeLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "yellowHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "yellowSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "yellowLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "greenHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "greenSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "greenLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "aquaHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "aquaSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "aquaLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "blueHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "blueSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "blueLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "purpleHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "purpleSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "purpleLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "magentaHue": {
+    "label": "Hue",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "magentaSaturation": {
+    "label": "Saturation",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "magentaLuminance": {
+    "label": "Luminance",
+    "group": "Color mixer",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "shadowGradeHue": {
+    "label": "Hue",
+    "group": "Color grading",
+    "min": 0,
+    "max": 360,
+    "default": 0,
+    "step": 1
+  },
+  "shadowGradeSaturation": {
+    "label": "Saturation",
+    "group": "Color grading",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "shadowGradeLuminance": {
+    "label": "Luminance",
+    "group": "Color grading",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "midtoneGradeHue": {
+    "label": "Hue",
+    "group": "Color grading",
+    "min": 0,
+    "max": 360,
+    "default": 0,
+    "step": 1
+  },
+  "midtoneGradeSaturation": {
+    "label": "Saturation",
+    "group": "Color grading",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "midtoneGradeLuminance": {
+    "label": "Luminance",
+    "group": "Color grading",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "highlightGradeHue": {
+    "label": "Hue",
+    "group": "Color grading",
+    "min": 0,
+    "max": 360,
+    "default": 0,
+    "step": 1
+  },
+  "highlightGradeSaturation": {
+    "label": "Saturation",
+    "group": "Color grading",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "highlightGradeLuminance": {
+    "label": "Luminance",
+    "group": "Color grading",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "texture": {
+    "label": "Texture",
+    "group": "Effects",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "clarity": {
+    "label": "Clarity",
+    "group": "Effects",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "dehaze": {
+    "label": "Dehaze",
+    "group": "Effects",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "vignette": {
+    "label": "Amount",
+    "group": "Vignette",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "vignetteMidpoint": {
+    "label": "Midpoint",
+    "group": "Vignette",
+    "min": 0,
+    "max": 100,
+    "default": 50,
+    "step": 1
+  },
+  "vignetteFeather": {
+    "label": "Feather",
+    "group": "Vignette",
+    "min": 1,
+    "max": 100,
+    "default": 50,
+    "step": 1
+  },
+  "vignetteRoundness": {
+    "label": "Roundness",
+    "group": "Vignette",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "grain": {
+    "label": "Amount",
+    "group": "Grain",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "grainSize": {
+    "label": "Size",
+    "group": "Grain",
+    "min": 1,
+    "max": 100,
+    "default": 25,
+    "step": 1
+  },
+  "grainRoughness": {
+    "label": "Roughness",
+    "group": "Grain",
+    "min": 0,
+    "max": 100,
+    "default": 50,
+    "step": 1
+  },
+  "sharpening": {
+    "label": "Amount",
+    "group": "Sharpening",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "sharpenRadius": {
+    "label": "Radius",
+    "group": "Sharpening",
+    "min": 0.5,
+    "max": 3,
+    "default": 1,
+    "step": 0.1
+  },
+  "sharpenDetail": {
+    "label": "Detail",
+    "group": "Sharpening",
+    "min": 0,
+    "max": 100,
+    "default": 25,
+    "step": 1
+  },
+  "sharpenMasking": {
+    "label": "Masking",
+    "group": "Sharpening",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "noiseReduction": {
+    "label": "Luminance",
+    "group": "Noise reduction",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "noiseDetail": {
+    "label": "Detail",
+    "group": "Noise reduction",
+    "min": 0,
+    "max": 100,
+    "default": 50,
+    "step": 1
+  },
+  "noiseContrast": {
+    "label": "Contrast",
+    "group": "Noise reduction",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "colorNoiseReduction": {
+    "label": "Color",
+    "group": "Noise reduction",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "step": 1
+  },
+  "colorNoiseSmoothness": {
+    "label": "Smoothness",
+    "group": "Noise reduction",
+    "min": 0,
+    "max": 100,
+    "default": 50,
+    "step": 1
+  }
+}

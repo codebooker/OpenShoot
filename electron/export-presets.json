@@ -1,0 +1,26 @@
+{
+  "square": {
+    "label": "Square · 1080 × 1080",
+    "width": 1080,
+    "height": 1080,
+    "cropMode": "1:1"
+  },
+  "feed": {
+    "label": "Portrait feed · 1080 × 1350",
+    "width": 1080,
+    "height": 1350,
+    "cropMode": "4:5-portrait"
+  },
+  "story": {
+    "label": "Vertical story / reel cover · 1080 × 1920",
+    "width": 1080,
+    "height": 1920,
+    "cropMode": "9:16"
+  },
+  "wide": {
+    "label": "Widescreen · 1920 × 1080",
+    "width": 1920,
+    "height": 1080,
+    "cropMode": "16:9"
+  }
+}

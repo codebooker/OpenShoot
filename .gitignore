@@ -1,18 +1,38 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+node_modules/
+dist/
+release/
+*.dmg
+.DS_Store
+.test-data/
 
-# Other files and folders
-.settings/
+third_party/lightcraft/target/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+native/openshoot-raw
+native/licenses/
+native/openshoot-metadata
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Private local research and testing records
+analysis/
+docs/reverse-engineering.md
+docs/verification.md
+docs/ai-concurrency-benchmark.md
+.env
+.env.*
+!.env.example
+*.enc
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.cr3
+*.CR3
+*.nef
+*.NEF
+*.arw
+*.ARW
+*.mov
+*.MOV
+*.onnx
+*.dtmodel
+*.log
